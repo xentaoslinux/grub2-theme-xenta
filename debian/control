@@ -1,11 +1,11 @@
 Source: grub2-theme-xenta
 Section: misc
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/grub2-theme-xenta
-Vcs-Browser: https://github.com/xentaos/grub2-theme-xenta.git
+Homepage: https://github.com/xentaoslinux/grub2-theme-xenta
+Vcs-Browser: https://github.com/xentaoslinux/grub2-theme-xenta.git
 
 Package: grub2-theme-xenta
 Architecture: all

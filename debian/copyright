@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: grub2-theme-xenta
-Upstream-Contact: Dindin Hernawan <root@dev.xentaos.org>
-Source: https://github.com/xentaos/grub2-theme-xenta
+Upstream-Contact: Dindin Hernawan <dindin_hernawan@yahoo.com>
+Source: https://github.com/xentaoslinux/grub2-theme-xenta
 
 Files: etc/grub.d/*
 Copyright: 2017 Dindin Hernawan
